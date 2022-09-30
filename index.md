@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: **The woes of a code illiterate newbie**
 ---
 
